@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+<<<<<<< HEAD
 const fs = require('fs');
 const path = require('path');
 const inquirer = require('inquirer');
@@ -69,6 +70,17 @@ async function init() {
     writeToFile('README.md', data);
 }
 
+=======
+
+// TODO: Create an array of questions for user input
+const questions = [];
+
+// TODO: Create a function to write README file
+function writeToFile(fileName, data) {}
+
+// TODO: Create a function to initialize app
+function init() {}
+>>>>>>> 0d1808eb7f96f8e478057077646edec5080ce9a8
 
 // Function call to initialize app
 init();

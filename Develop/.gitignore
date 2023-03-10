@@ -1,4 +1,7 @@
 node_modules
+<<<<<<< HEAD
 package-lock.json
 .vscode
 .DS_Store
+=======
+>>>>>>> 0d1808eb7f96f8e478057077646edec5080ce9a8
